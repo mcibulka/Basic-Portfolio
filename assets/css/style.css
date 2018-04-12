@@ -1,4 +1,8 @@
 /* HTML Elements */
+body {
+    background: url("../images/funky_lines.png");
+}
+
 button {
     background-color: #4aaaa5;
     color: white;
